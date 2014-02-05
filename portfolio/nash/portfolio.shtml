@@ -14,7 +14,7 @@
 <link href="../../css/menu.css" rel="stylesheet" type="text/css" />
 
 
-<script type="text/javascript" src="scripts/swfobject.js"></script>
+<script type="text/javascript" src="../../scripts/swfobject.js"></script>
 
 
 <link rel="icon" href="../../images/favicon.ico" type="image/x-icon">
@@ -29,7 +29,7 @@
 
 	<!--#include virtual="../../header.html" -->
 	
-<div id="page_title"><img src="images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
+<div id="page_title"><img src="../../images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
 
 <div id="sub_title_no_image">
   <h2 class="no_margin">LEED Gold Home in Estacada</h2>
@@ -38,7 +38,7 @@
 <div id="portfolio_flash">SimpleViewer requires Macromedia Flash.<a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="portfolio.shtml?detectflash=false">click to view gallery</a>
       <script type="text/javascript">
 
-		var fo = new SWFObject("../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
+		var fo = new SWFObject("../../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
 
 		fo.addVariable("preloaderColor", "0xffffff");
 
