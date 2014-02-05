@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<BASE href="http://stinabeads.com/justin/green_hammer/">
+<BASE href="http://stinabeads.com">
 <meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
@@ -18,7 +18,7 @@
 <script src="scripts/jquery-1.2.6.min.js" type="text/javascript" ></script>
 <script src="scripts/slideshow.js" type="text/javascript" ></script>
 
-<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 </head>
 
@@ -37,49 +37,49 @@
 
 		<div id="slideshow">
         
-       	  <div class="active"><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design1.jpg" alt="Green building in Portland Oregon" /></a></div>
+       	  <div class="active"><a href="portfolio.shtml"><img src="slideshow/design1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design5.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design6.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/design7.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/design7.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build1.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build5.jpg" alt="Green building in Portland Oregon" /></a></div>
                                     
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/build6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/build6.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy1.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy5.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy6.jpg" alt="Green building in Portland Oregon" /></a></div>
                                     
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy7.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy7.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy8.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy8.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="/justin/green_hammer/portfolio.shtml"><img src="slideshow/energy9.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="portfolio.shtml"><img src="slideshow/energy9.jpg" alt="Green building in Portland Oregon" /></a></div>
     
 		</div>
 	<!-- End Slideshow -->

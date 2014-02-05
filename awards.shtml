@@ -14,7 +14,7 @@
 <link href="css/menu.css" rel="stylesheet" type="text/css" />
 
 
-<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 </head>
 

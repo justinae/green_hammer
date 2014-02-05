@@ -17,7 +17,7 @@
 <script src="scripts/jquery-1.2.6.min.js" type="text/javascript" ></script>
 <script src="scripts/slideshow.js" type="text/javascript" ></script>
 
-<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 </head>
 

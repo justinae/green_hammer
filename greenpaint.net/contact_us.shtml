@@ -38,7 +38,7 @@
             <li><a href="contact_us.shtml" title="Contact Us"><span></span>Contact Us</a></li>
 		</ul>
   </div><MM:EndLock><![endif]-->
-<!--[if !IE]>--><MM:BeginLock translatorClass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22header.html%22 --%3E" fileRef="header.html" depFiles="file:///Macintosh HD/Users/euteneier/Sites/Green Paint/header.html"><div id="header"><img src="/justin/green_hammer/images/header.jpg" alt="header" width="780" height="130" border="0" usemap="#Map" class="no_border" />
+<!--[if !IE]>--><MM:BeginLock translatorClass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22header.html%22 --%3E" fileRef="header.html" depFiles="file:///Macintosh HD/Users/euteneier/Sites/Green Paint/header.html"><div id="header"><img src="images/header.jpg" alt="header" width="780" height="130" border="0" usemap="#Map" class="no_border" />
 <map name="Map" id="Map"><area shape="rect" coords="22,37,324,116" href="/index.shtml" alt="Logo" />
 <area shape="rect" coords="145,3,208,123" href="/index.shtml" alt="Logo" />
 </map></div>
@@ -55,7 +55,7 @@
             <li><a href="contact_us.shtml" title="Contact Us" class="contact_us"><span></span>Contact Us</a></li>
 		</ul>
    </div><MM:EndLock><!--<![endif]-->
-<!--[if gt IE 6]><MM:BeginLock translatorClass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22header.html%22 --%3E" fileRef="header.html" depFiles="file:///Macintosh HD/Users/euteneier/Sites/Green Paint/header.html"><div id="header"><img src="/justin/green_hammer/images/header.jpg" alt="header" width="780" height="130" border="0" usemap="#Map" class="no_border" />
+<!--[if gt IE 6]><MM:BeginLock translatorClass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22header.html%22 --%3E" fileRef="header.html" depFiles="file:///Macintosh HD/Users/euteneier/Sites/Green Paint/header.html"><div id="header"><img src="images/header.jpg" alt="header" width="780" height="130" border="0" usemap="#Map" class="no_border" />
 <map name="Map" id="Map"><area shape="rect" coords="22,37,324,116" href="/index.shtml" alt="Logo" />
 <area shape="rect" coords="145,3,208,123" href="/index.shtml" alt="Logo" />
 </map></div>
