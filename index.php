@@ -34,7 +34,7 @@
 		<!-- set the active class on whichever image you want to show up as the default 
 		(otherwise this will be the last image) -->
 
-		<div id="slideshow">
+	<div id="slideshow">
         
        	  <div class="active"><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
@@ -80,53 +80,50 @@
             
             <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy9.jpg" alt="Green building in Portland Oregon" /></a></div>
     
-		</div>
+	</div>
 	<!-- End Slideshow -->
 
-	  <!-- Begin Content -->
-<div id="content_index_new">
-<div id="mission">Green Hammer’s mission is to massively decrease energy consumption and carbon emissions in our built environment by designing and building ultra high-performance living and work spaces that inspire urban livability. Our passion is to integrate beauty, and affordability with the world’s highest standards for energy performance, while promoting responsible, non-toxic, and local materials. <a href="about_us.shtml">Learn more</a></div>
+	<!-- Begin Content -->
+	<div id="content_index_new">
+	<div id="mission">Green Hammer’s mission is to massively decrease energy consumption and carbon emissions in our built environment by designing and building ultra high-performance living and work spaces that inspire urban livability. Our passion is to integrate beauty, and affordability with the world’s highest standards for energy performance, while promoting responsible, non-toxic, and local materials. <a href="about_us.shtml">Learn more</a></div>
 
-<div id="announcements">
+	<div id="announcements">
       	
         
           <h2>Announcements</h2>
           
      
 
- <?php
-   // Include the file that does all the work
-   include("rssannouncement.php");
-   $url = "http://greenhammerconstruction.wordpress.com/category/announcement/feed/"; //this is the blogs url
-   $rss=new rssFeed($url);
-   if($rss->error){
-	  print "<h1>Error:</h1>\n<p><strong>$rss->error</strong></p>";
-   }else{
-
-	  $rss->parse();
-
-	  
-	  $rss->showStories();
-   }
-?>
+	 <?php
+	   // Include the file that does all the work
+	   include("rssannouncement.php");
+	   $url = "http://greenhammerconstruction.wordpress.com/category/announcement/feed/"; //this is the blogs url
+	   $rss=new rssFeed($url);
+	   if($rss->error){
+		  print "<h1>Error:</h1>\n<p><strong>$rss->error</strong></p>";
+	   }else{
+		  $rss->parse();
+		  $rss->showStories();
+	   }
+	?>
 
 
           
-<div id="social_media_new"><a href="http://www.facebook.com/pages/Portland-OR/Green-Hammer-Inc/79162394122" target="_blank"><img src="images/facebook.gif" alt="Facebook" width="113" height="35" class="no_border" /></a> <a href="http://twitter.com/green_hammer" target="_blank"><img src="images/twitter.gif" alt="Twitter" width="117" height="35" class="no_border" /></a></div>
+	<div id="social_media_new"><a href="http://www.facebook.com/pages/Portland-OR/Green-Hammer-Inc/79162394122" target="_blank"><img src="images/facebook.gif" alt="Facebook" width="113" height="35" class="no_border" /></a> <a href="http://twitter.com/green_hammer" target="_blank"><img src="images/twitter.gif" alt="Twitter" width="117" height="35" class="no_border" /></a></div>
 
           
     <!-- AddThis Button BEGIN -->
-<div id="addthis_new">
-<div class="addthis_toolbox_new addthis_default_style">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c2c18c44a974c07" class="addthis_button_compact">Share</a>
-<span class="addthis_separator">|</span>
-<a class="addthis_button_facebook"></a>
-<a class="addthis_button_myspace"></a>
-<a class="addthis_button_google"></a>
-<a class="addthis_button_twitter"></a></div>
-</div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c2c18c44a974c07"></script>
-<!-- AddThis Button END -->
+	<div id="addthis_new">
+	<div class="addthis_toolbox_new addthis_default_style">
+	<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c2c18c44a974c07" class="addthis_button_compact">Share</a>
+	<span class="addthis_separator">|</span>
+	<a class="addthis_button_facebook"></a>
+	<a class="addthis_button_myspace"></a>
+	<a class="addthis_button_google"></a>
+	<a class="addthis_button_twitter"></a></div>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c2c18c44a974c07"></script>
+    <!-- AddThis Button END -->
           
     </div>
     
@@ -176,7 +173,7 @@
 		<a href="http://energytrust.org/trade-ally/"><img src="images/ET Trade allies Color.jpg" alt="Energy Trust" width="140" height="68" class="partner" /></a> 
 		<a href="http://www.usgbc.org/"><img src="images/member_logo_blk.jpg" alt="US Green Building Council" width="72" height="72" class="partner" /></a> 
 		<a href="http://www.usgbc.org/DisplayPage.aspx?CMSPageID=147"><img src="images/leed_homes_logo_orange.jpg" alt="LEED for Homes" width="92" height="136" class="partner" /></a>
-        <a href="http://www.earthadvantage.org/"><img src="images/EAInstitute Logo_color_tag.jpg" alt="Earth Advantage Institute" width="112" height="50" class="partner" /></a>
+        	<a href="http://www.earthadvantage.org/"><img src="images/EAInstitute Logo_color_tag.jpg" alt="Earth Advantage Institute" width="112" height="50" class="partner" /></a>
 	  <div style="clear:both"></div>
             
   </div>
