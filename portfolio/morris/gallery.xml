@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageHeight="320" maxImageWidth="480" textColor="0x363604" frameColor="0x000000" frameWidth="4" stagePadding="0" thumbnailColumns="3" thumbnailRows="3" navPosition="right" title="" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath=""><image>
+
+	<filename>morris_web_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>morris_web_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>morris_web_3.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>morris_web_4.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>morris_web_5.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>morris_web_6.jpg</filename>
+
+	<caption></caption>
+
+</image></simpleviewerGallery>

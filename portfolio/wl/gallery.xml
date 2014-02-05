@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageHeight="320" maxImageWidth="480" textColor="0x363604" frameColor="0x000000" frameWidth="4" stagePadding="0" thumbnailColumns="3" thumbnailRows="3" navPosition="right" title="" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="">
+
+<image>
+
+	<filename>1_wl_ext_south_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>2_wl_ext_west_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>3_wl_ext_north_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>4_wl_ext_north_3.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>5_wl_ext_north_4.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>6_wl_from_entry_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>7_wl_main_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>8_wl_kitchen_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>9_wl_kitchen_4.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>10_wl_kitchen_5.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>11_wl_kitchen_8.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>12_wl_kitchen_9.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>13_wl_kitchen_11.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>14_wl_kitchen_12.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>15_wl_stairway_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>16_wl_landing_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>17_wl_landing_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>18_wl_bdrm_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>19_wl_bdrm_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>20_wl_bath_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>21_wl_laundry_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>22_wl_adu_entry_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>23_wl_adu_kitchen_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>24_wl_adu_kitchen_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>25_wl_adu_main_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>26_wl_adu_main_2.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>27_wl_adu_bath_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>28_wl_adu_closet_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_171_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_174_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_154_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>wl_106_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_141_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_127_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_160_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_153_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_127_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_103_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_107_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_129_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_97_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_89_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_77_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>wl_66_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_69_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_43_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_42_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_112_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_36_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_26_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_20_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_8_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>wl_3_web.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>wl_2_web.jpg</filename>
+
+	<caption></caption>
+
+</image></simpleviewerGallery>

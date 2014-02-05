@@ -17,12 +17,12 @@
 <script type="text/javascript" src="scripts/swfobject.js"></script>
 
 
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="../../images/favicon.ico" type="image/x-icon">
 
 </head>
 
 <body>
-<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+<!--[if lte IE 6]><script src="../../ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
 
 <!-- Begin Page Wrapper -->
 <div id="wrapper">

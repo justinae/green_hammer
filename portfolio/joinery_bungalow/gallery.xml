@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageHeight="320" maxImageWidth="480" textColor="0x363604" frameColor="0x000000" frameWidth="4" stagePadding="0" thumbnailColumns="3" thumbnailRows="3" navPosition="right" title="" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath=""><image>
+
+	<filename>TheJoinery1-34.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery2-302Tone.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery2-305Tone.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>TheJoinery2-327Tone.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery2-343.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery3-106Tone.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery3-198Tone.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery3-292.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>TheJoinery3-418.jpg</filename>
+
+	<caption></caption>
+
+</image></simpleviewerGallery>

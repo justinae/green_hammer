@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="../../css/main.css" rel="stylesheet" type="text/css" />
+<link href="../../css/menu.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="../../scripts/swfobject.js"></script>
+
+
+<link rel="icon" href="../../images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="../../ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="header.html" -->
+	
+<div id="page_title"><img src="/justin/green_hammer/images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image">
+  <h2 class="no_margin">SW Portland Urban Cabin </h2>
+  </div><div id="content_no_sidebar">
+
+<div id="portfolio_flash">SimpleViewer requires Macromedia Flash.<a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="portfolio.shtml?detectflash=false">click to view gallery</a>
+      <script type="text/javascript">
+
+		var fo = new SWFObject("../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
+
+		fo.addVariable("preloaderColor", "0xffffff");
+
+		fo.addVariable("xmlDataPath", "gallery.xml");	
+
+		fo.write("portfolio_flash");	
+
+	</script>
+    </div><h2>Green features</h2>
+
+<div class="portfolio_box">
+        <ul>
+            <li>Local <a href="http://www.fscus.org/" target="_blank">Forest Stewardship Council (FSC)</a> certified framing lumber and rough sawn cedar siding</li>
+          <li>Salvaged douglas fir framing material used for the 2nd story car deck flooring</li>
+          <li>Hydronic heated earthen floors</li>
+          <li>Owner sourced salvaged tile, plumbing fixtures, doors (interior and exterior), lighting fixtures, granite countertops, and appliances.</li>
+          <li>Formaldehyde free fiberglass batt insulation</li>
+            <li>26 gauge Taylor Standing Seam Metal Roof </li>
+        </ul>
+</div>     
+
+<div class="portfolio_box_right">
+This home was built just 5 minutes from downtown Portland, but feels like you are miles away in a cozy cabin tucked in amongst apple orchards, evergreens and alders.
+</div>
+
+<div style="clear:both"></div>
+
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+
+<!-- Begin Footer -->
+<!--#include virtual="../../footer.html" -->
+<!-- End Footer -->
+
+
+
+</body>
+</html>

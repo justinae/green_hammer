@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageHeight="320" maxImageWidth="480" textColor="0x363604" frameColor="0x000000" frameWidth="4" stagePadding="0" thumbnailColumns="3" thumbnailRows="3" navPosition="right" title="" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath=""><image>
+
+	<filename>cirillo_web_1.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_3.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_44.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+	<filename>cirillo_web_28.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_27.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_26.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_24.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_20.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_19.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_38.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_36.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_34.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_22.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_17.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_15.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_14.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_13.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_11.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_6.jpg</filename>
+
+	<caption></caption>
+
+</image><image>
+
+	<filename>cirillo_web_5.jpg</filename>
+
+	<caption></caption>
+
+</image></simpleviewerGallery>
