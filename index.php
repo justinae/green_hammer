@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<BASE href="http://stinabeads.com">
 <meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
@@ -9,7 +8,7 @@
 <meta name="city" content="Portland" />
 <meta name="state" content="Oregon" />
 
-<title>Green Hammer Test - Design | Build | Energy in Portland, Oregon</title>
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
 
 <link href="css/main.css" rel="stylesheet" type="text/css" />
 <link href="css/menu.css" rel="stylesheet" type="text/css" />
@@ -37,56 +36,56 @@
 
 		<div id="slideshow">
         
-       	  <div class="active"><a href="portfolio.shtml"><img src="slideshow/design1.jpg" alt="Green building in Portland Oregon" /></a></div>
+       	  <div class="active"><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design5.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design6.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/design7.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/design7.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/build1.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/build2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/build3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/build4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/build5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build5.jpg" alt="Green building in Portland Oregon" /></a></div>
                                     
-            <div><a href="portfolio.shtml"><img src="slideshow/build6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/build6.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy1.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy1.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy2.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy2.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy3.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy3.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy4.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy4.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy5.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy5.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy6.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy6.jpg" alt="Green building in Portland Oregon" /></a></div>
                                     
-            <div><a href="portfolio.shtml"><img src="slideshow/energy7.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy7.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy8.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy8.jpg" alt="Green building in Portland Oregon" /></a></div>
             
-            <div><a href="portfolio.shtml"><img src="slideshow/energy9.jpg" alt="Green building in Portland Oregon" /></a></div>
+            <div><a href="http://www.greenhammer.com/portfolio.shtml"><img src="slideshow/energy9.jpg" alt="Green building in Portland Oregon" /></a></div>
     
 		</div>
 	<!-- End Slideshow -->
 
 	  <!-- Begin Content -->
 <div id="content_index_new">
-<div id="mission">We are a small design and construction firm whose mission is to massively decrease energy consumption and carbon emissions in our built environment by designing and building ultra high-performance living and work spaces that inspire urban livability. Our passion is to integrate beauty, and affordability with the world’s highest standards for energy performance, while promoting responsible, non-toxic, and local materials. <a href="about_us.shtml">Learn more</a></div>
+<div id="mission">Green Hammer’s mission is to massively decrease energy consumption and carbon emissions in our built environment by designing and building ultra high-performance living and work spaces that inspire urban livability. Our passion is to integrate beauty, and affordability with the world’s highest standards for energy performance, while promoting responsible, non-toxic, and local materials. <a href="about_us.shtml">Learn more</a></div>
 
 <div id="announcements">
       	
@@ -113,7 +112,7 @@
 
 
           
-<div id="social_media_new"><a href="http://www.facebook.com/profile.php?id=1799162363&sk=wall" target="_blank"><img src="images/facebook.gif" alt="Facebook" width="113" height="35" class="no_border" /></a> <a href="http://twitter.com/green_hammer" target="_blank"><img src="images/twitter.gif" alt="Twitter" width="117" height="35" class="no_border" /></a></div>
+<div id="social_media_new"><a href="http://www.facebook.com/pages/Portland-OR/Green-Hammer-Inc/79162394122" target="_blank"><img src="images/facebook.gif" alt="Facebook" width="113" height="35" class="no_border" /></a> <a href="http://twitter.com/green_hammer" target="_blank"><img src="images/twitter.gif" alt="Twitter" width="117" height="35" class="no_border" /></a></div>
 
           
     <!-- AddThis Button BEGIN -->
