@@ -38,7 +38,7 @@
 <div id="portfolio_flash">SimpleViewer requires Macromedia Flash.<a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="portfolio.shtml?detectflash=false">click to view gallery</a>
       <script type="text/javascript">
 
-		var fo = new SWFObject("../../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
+		var fo = new SWFObject("../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
 
 		fo.addVariable("preloaderColor", "0xffffff");
 
