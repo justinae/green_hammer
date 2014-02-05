@@ -27,7 +27,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="header.html" -->
+	<!--#include virtual="../../header.html" -->
 	
 <div id="page_title"><img src="images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
 
