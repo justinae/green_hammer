@@ -24,7 +24,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="/justin/green_hammer/header.html" -->
+	<!--#include virtual="header.html" -->
 
 <div id="page_title"><img src="images/about_us.gif" alt="Meet the Crew" width="250" height="30" class="no_border" /></div>
 
@@ -161,8 +161,8 @@
 </div>
 <!--End wrapper-->
 
-<!--#include virtual="/justin/green_hammer/footer.html" -->
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+<!--#include virtual="footer.html" -->
+<!--#include virtual="scripts/ga.js" -->
 
 </body>
 </html>

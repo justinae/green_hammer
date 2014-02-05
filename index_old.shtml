@@ -40,7 +40,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="/justin/green_hammer/header.html" -->
+	<!--#include virtual="header.html" -->
 
 	<!-- Begin Flash Banner -->
 	<div id="flash_movie">
@@ -123,9 +123,9 @@
 <!-- End Page Wrapper -->
 
 <!-- Begin Footer -->
-<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!--#include virtual="footer.html" -->
 <!-- End Footer -->
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+<!--#include virtual="scripts/ga.js" -->
 
 </body>
 </html>

@@ -113,7 +113,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 <!--End wrapper-->
 
 <!--#include file="footer.html" -->
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+<!--#include virtual="scripts/ga.js" -->
 
 </body>
 </html>

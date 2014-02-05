@@ -25,7 +25,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="/justin/green_hammer/header.html" -->
+	<!--#include virtual="header.html" -->
 
 <div id="page_title"><img src="images/passive_house_title.gif" alt="Page Title: Contact" width="250" height="30" class="no_border" /></div>
 
@@ -74,10 +74,10 @@
 
 </div>
 <!--End wrapper-->
-<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!--#include virtual="footer.html" -->
 <!-- End Footer -->
 
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+<!--#include virtual="scripts/ga.js" -->
 
 </body>
 </html>

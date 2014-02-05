@@ -49,7 +49,7 @@
 <!--End wrapper-->
 
 <!--#include file="footer.html" -->
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+<!--#include virtual="scripts/ga.js" -->
 
 </body>
 </html>

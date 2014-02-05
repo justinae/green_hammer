@@ -26,7 +26,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="/justin/green_hammer/header.html" -->
+	<!--#include virtual="header.html" -->
 
 	<!-- Begin Slideshow -->
 		<!-- this will work with any number of images -->
@@ -152,7 +152,7 @@
 <!-- End Page Wrapper -->
 
 <!-- Begin Footer -->
-	<!--#include virtual="/justin/green_hammer/footer.html" -->
+	<!--#include virtual="footer.html" -->
 <!-- End Footer -->
 	<!--#include virtual="/ga.js" -->
 

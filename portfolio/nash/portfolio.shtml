@@ -27,7 +27,7 @@
 <!-- Begin Page Wrapper -->
 <div id="wrapper">
 
-	<!--#include virtual="/justin/green_hammer/header.html" -->
+	<!--#include virtual="header.html" -->
 	
 <div id="page_title"><img src="/justin/green_hammer/images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
 
@@ -85,10 +85,8 @@
 <!--End wrapper-->
 
 <!-- Begin Footer -->
-<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!--#include virtual="footer.html" -->
 <!-- End Footer -->
-
-<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
 
 </body>
 </html>
