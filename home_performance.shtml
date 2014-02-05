@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+
+
+<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="/justin/green_hammer/header.html" -->
+
+<div id="page_title"><img src="images/home_performance.gif" alt="Page Title: Contact" width="303" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image"></div>
+<div id="content_no_sidebar">
+  
+  <div id="hp_overview">
+    <h1 class="no_margin">Home Performance Analysis Overview</h1>
+    <h4>Priorities:</h4>
+    <p>Comfort--Safety--Health--Energy Efficiency--Durability</p>
+      <h4>HP Assessment Testing Points:</h4>
+      <ul>
+        <li>House Air Leakage(Blower Door Test)</li>
+        <li>Duct System Air Leakage(Duct    
+          Blaster Test)</li>
+        <li>House Insulation Levels</li>
+        <li>Duct System Insulation Levels</li>
+        <li>Mechanical System(Furnace/Heat Pump)</li>
+        <li>Mechanical System Safety
+          Efficiency</li>
+        <li>Carbon Monoxide Testing</li>
+        <li>Gas Leak Detection</li>
+        <li>Mechanical and Passive Ventilation Levels</li>
+        <li>Moisture Issues</li>
+      </ul>
+      <h4>Typical Potential Upgrades</h4>
+      <p>(Listed in Order of Priority)</p>
+      <ol>
+        <li>House Air Sealing</li>
+        <li>Duct Sealing</li>
+        <li>Attic/Roof Insulation</li>
+        <li>Floor Insulation</li>
+        <li>Mechanical System Upgrade</li>
+        <li>Wall Insulation</li>
+        <li>Water Heater Upgrade</li>
+        <li>Window Replacement</li>
+        <li>Ventilation System</li>
+        <li>Installation
+          Moisture Control Strategies </li>
+      </ol>
+      <h4>Typical Weatherization Project Budget</h4>
+      <p>$3,000-20,000</p>
+      <h4>Typical State/Federal Incentives Available</h4>
+      <p>$500-3500</p>
+      <h4>Typical Project Duration</h4>
+      <p>1-4 weeks</p>
+      <p>&nbsp;</p>
+      
+      <p><a href="images/house_leaks_full_size.jpg" target="_blank"><img src="images/house_leaks_thumbnail.jpg" alt="Common House Air Leaks" width="300" height="322" /></a></p>
+  </div>
+  
+  <div id="hp_resources">
+        
+   	  <h4>Home Performance Resources</h4>
+   	  <p><a href="http://www.bpi.org/" target="_blank"><img src="images/bpi_logo.jpg" alt="Building Performance Institute" width="135" height="188" class="no_border" /></a>
+   	    
+      <a href="http://www.oregonhpcg.org/" target="_blank"><img src="images/hpguild_logo.jpg" alt="Home Performance Guild" width="200" height="100" class="hp_resource" /></a></p>
+   	  <p>
+   	    
+   	    <a href="http://energytrust.org/trade-ally/" target="_blank"><img src="images/ET Trade allies Color.jpg" alt="Energy Trust" width="140" height="68" class="no_border" /></a>      </p>
+   	  <p><img src="images/andrew_blower_door.jpg" alt="Passipedia" width="375" height="560" /></p>
+  </div>
+
+  <div style="clear:both"></div>
+
+
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!-- End Footer -->
+
+<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+
+</body>
+</html>

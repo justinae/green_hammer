@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="../../css/main.css" rel="stylesheet" type="text/css" />
+<link href="../../css/menu.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="/justin/green_hammer/scripts/swfobject.js"></script>
+
+
+<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="/justin/green_hammer/header.html" -->
+	
+<div id="page_title"><img src="/justin/green_hammer/images/portfolio.jpg" alt="Page Title: Contact" width="210" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image">
+  <h2 class="no_margin">LEED Gold Home in Estacada</h2>
+</div><div id="content_no_sidebar">
+
+<div id="portfolio_flash">SimpleViewer requires Macromedia Flash.<a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="portfolio.shtml?detectflash=false">click to view gallery</a>
+      <script type="text/javascript">
+
+		var fo = new SWFObject("../viewer.swf", "viewer", "760px", "370px", "4", "#ffffff");	
+
+		fo.addVariable("preloaderColor", "0xffffff");
+
+		fo.addVariable("xmlDataPath", "gallery.xml");	
+
+		fo.write("portfolio_flash");	
+
+	</script>
+    </div><h2>Green features</h2>
+
+<div class="portfolio_box">
+    <ul>
+          <li>All natural <a href="http://www.durisolbuild.com/products_thermal.shtml" target="_blank">Druisol Insulated Concrete Form</a> walls on first floor </li>
+          <li><a href="http://www.sips.org/content/about/index.cfm?pageId=7" target="_blank">Structural Insulated Panel (SIP)</a>  roof </li>
+          <li><a href="http://www1.eere.energy.gov/geothermal/heatpumps.html" target="_blank">Ground source heat pump</a> driving <a href="http://www.eere.energy.gov/buildings/info/components/hvac/radiantheat.html" target="_blank">radiant hydronic floor heating</a></li>
+          <li>High performance staggered stud  walls allowing for continual thermal barrier </li>
+          <li><a href="http://www.fscus.org/" target="_blank">Forest Stewardship
+              Council (FSC)</a> certified local lumber</li>
+      </ul>   
+</div>     
+
+<div class="portfolio_box_right">
+	<ul>
+              <li>Toxin-free envelope</li>
+              <li>Exterior lime plaster</li>
+              <li>Interior clay plaster</li>
+              <li>FSC formaldehyde free cabinets</li>
+              <li>FSC Douglas Fir cardecking</li>
+              <li>Concrete finished floor</li>
+              <li>Concrete countertops</li>
+              <li>Recycled glass tiling</li>
+      </ul>
+</div>
+
+<div style="clear:both"></div>
+
+<div align="center"><p>This home was also featured in the <a href="http://www.oregonlive.com/hg/index.ssf/2008/11/an_estacada_home_melds_industr.html" target="_blank">Oregonian's Home and Garden Northwest</a>.</p>
+</div>
+
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+
+<!-- Begin Footer -->
+<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!-- End Footer -->
+
+<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="/justin/green_hammer/header.html" -->
+
+<div id="page_title"><img src="images/about_us.gif" alt="Page Title: Contact" width="250" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image"></div>
+<div id="content_no_sidebar">
+
+<div id="about_us_submenu"><a href="about_us.shtml">About Us</a> <a href="crew.shtml">Meet the GH Crew</a> <a href="standards.shtml">Our Standards</a> <a href="resources.shtml">Resources</a></div>
+	
+<div class="description">
+		<h2 class="no_margin">BEAUTY AND DURABILITY</h2>
+        <p>Increasing the lifetime of the home, through beautiful design, inspiring spaces, informed building science and durable systems is of utmost importance for any ‘sustainable’ project. We understand that no individual is as wise as the collective wisdom of a team. Green Hammer achieves our lofty goals through our team’s innovative Integrated Design Process (IDP).  The IDP weaves our clients goals and aspirations with the artistic aspirations of our designers, the deep knowledge of our building science engineers and building teams to value engineer and maximize performance, comfort, durability, beauty, within a budget every time.</p>
+      <div align="center"><br /><img src="images/longevity.png" alt="recycling" width="400" height="69" /></div>
+	</div>
+    
+    <div class="description">
+	  <h2 class="no_margin">PERFORMANCE AND COMFORT</h2>
+	  <p>Green Hammer’s staff of Building Science Engineers (BSE), Certified Passive House Consultants (CPHC), and Building Performance Institute (BPI) certified professionals work as an integrated team with our designers and field staff to design and build new homes and retrofit existing buildings to the world’s highest standards for energy performance. Through in-house moisture management analysis, advanced energy modeling and our innovative Integrated Design Process (IDP), Green Hammer is designing and building beautiful and durable renovations and new buildings that set a new standard for performance and comfort.</p>
+	  <div align="center"><br />
+	    <img src="images/energy_efficiency.png" alt="ecological materials" width="400" height="69" />      </div>
+    </div>
+    
+    <div class="description">
+      <h2 class="no_margin">HEALTHY AIR</h2>
+      <p>Air tight buildings are critical for performance and comfort.  Well ventilated buildings are critical for healthy indoor air.  For these reasons Green Hammer designs in a high performance fully integrated Heat Recovery Ventilation (HRV) system into all of our new projects and full renovations.  Our integration of tight envelopes, planned (not leaky!) ventilation, and the use of non-toxic materials eliminates mold, significantly reduces pathogens, viruses, bacteria, dioxins, and volatile organic compounds (VOC’s) from the air.  The result is healthy indoor air, a healthy home, and healthy bodies!</p>
+      <div align="center"><br />
+	    <img src="images/healthy_air.png" alt="healthy air" width="400" height="69" />
+      </div>
+    </div>
+    
+    <div class="description">
+      <h2 class="no_margin">ECOLOGICAL MATERIALS</h2>
+      <p>We have a deep commitment to using non-toxic, low carbon footprint, and ecologically sound systems and products on all of our projects.  Green Hammer is currently the only Forest Stewardship Council (FSC) Chain of Custody (COC) certified building company in the United States.  We have taken this step to not only support a type of natural resource management we believe in, but to invest in a future where grand biodynamic forests thrive for the generations to come.</p>
+      <div align="center"><br />
+          <img src="images/ecological_materials.png" alt="energy efficiency" width="400" height="69" /> </div>
+    </div>
+    
+    <div class="description">
+      <h2 class="no_margin">REDUCE, REUSE, RECYCLE!</h2>
+	  <p>To conserve natural resources our designers and builders focus on reuse and repurposing of materials first.  Our build team is fully committed to the reduce, reuse and recycle mantra on site integrated with our time proven waste management systems allowing us to claim 90% and higher waste recycling rates on our sites. Green Hammer further diverts waste from the landfill by utilizing salvaged materials from the deconstruction process and suppliers like <a href="http://rebuildingcenter.org/" target="_blank">Rebuilding Center</a> and our own <a href="http://www.urbantimberworks.com/" target="_blank">Urban Timberworks</a> log salvage and milling company for use during the construction and restoration process.</p>
+	  <div align="center"><br />
+	    <img src="images/recycling.png" alt="healthy air" width="400" height="69" />      </div>
+    </div>
+    
+    <div class="description">
+      <h2 class="no_margin">SUPPORTING LOCAL: The Multiplier Effect</h2>
+      <p>We support regionally based craftsmen, suppliers and manufacturers to keep our dollars within our community. We are dedicated to preferring local, responsible sources first within reason of the project goals.  For instance we use only lumber salvaged locally or from Oregon forest stewards committed to FSC standards or better. Our efforts hope to ensure the restoration of our Oregon forests, decrease fossil fuel dependence, benefit local jobs and enhance connections in the local economy.</p>
+      <div align="center"><br />
+          <img src="images/local.png" alt="energy efficiency" width="400" height="69" /> </div>
+    </div>
+    
+    <div style="clear:both"></div>
+
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+
+<!-- Begin Footer -->
+<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!-- End Footer -->
+
+<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+
+</body>
+</html>

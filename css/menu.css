@@ -1,0 +1,223 @@
+#menu {
+	width: 960px;
+	margin-left: 2px;
+	padding: 0px;
+	height: 29px;
+	background-image: url(../images/menu/menu_bg.gif);
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+/*NAVIGATION
+----------------------------------------------------------------------------------------------------*/
+ul#nav{
+	list-style:none;
+	width: 960px;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+
+ul#nav li{
+	float:left;
+	margin-right: 7px;
+	margin-left: 7px;
+}
+
+ul#nav li a{
+	display:block;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-top: 2px;
+	float: left;
+	text-decoration:none;
+}
+
+/*HOME
+----------------------------------------------------------------------------------------------------*/
+a.home{
+    width:37px;
+    height:15px;
+    position:relative;
+}
+a.home span{
+    position:absolute;
+    width:37px;
+    height:15px;
+    background: url(../images/menu/home.gif) no-repeat 0px -15px;
+}
+a.home:hover span{
+    background: url(../images/menu/home.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*PORTFOLIO
+----------------------------------------------------------------------------------------------------*/
+a.portfolio{
+    width:54px;
+    height:15px;
+    position:relative;
+}
+a.portfolio span{
+    position:absolute;
+    width:54px;
+    height:15px;
+    background: url(../images/menu/portfolio.gif) no-repeat 0px -15px;
+}
+a.portfolio:hover span{
+    background: url(../images/menu/portfolio.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*PASSIVE HOUSE
+----------------------------------------------------------------------------------------------------*/
+a.passive_house{
+    width:93px;
+    height:15px;
+    position:relative;
+}
+a.passive_house span{
+    position:absolute;
+    width:93px;
+    height:15px;
+    background: url(../images/menu/passive_house.gif) no-repeat 0px -15px;
+}
+a.passive_house:hover span{
+    background: url(../images/menu/passive_house.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*HOME PERFORMANCE
+----------------------------------------------------------------------------------------------------*/
+a.home_performance{
+    width:124px;
+    height:15px;
+    position:relative;
+}
+a.home_performance span{
+    position:absolute;
+    width:124px;
+    height:15px;
+    background: url(../images/menu/home_performance.gif) no-repeat 0px -15px;
+}
+a.home_performance:hover span{
+    background: url(../images/menu/home_performance.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+
+/*IN THE MEDIA
+----------------------------------------------------------------------------------------------------*/
+a.media{
+    width:85px;
+    height:15px;
+    position:relative;
+}
+a.media span{
+    position:absolute;
+    width:85px;
+    height:15px;
+    background: url(../images/menu/media.gif) no-repeat 0px -15px;
+}
+a.media:hover span{
+    background: url(../images/menu/media.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*AWARDS
+----------------------------------------------------------------------------------------------------*/
+a.awards{
+    width:47px;
+    height:15px;
+    position:relative;
+}
+a.awards span{
+    position:absolute;
+    width:47px;
+    height:15px;
+    background: url(../images/menu/awards.gif) no-repeat 0px -15px;
+}
+a.awards:hover span{
+    background: url(../images/menu/awards.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*URBAN TIMBER WORKS
+----------------------------------------------------------------------------------------------------*/
+a.utw{
+    width:128px;
+    height:15px;
+    position:relative;
+}
+a.utw span{
+    position:absolute;
+    width:128px;
+    height:15px;
+    background: url(../images/menu/utw.gif) no-repeat 0px -15px;
+}
+a.utw:hover span{
+    background: url(../images/menu/utw.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+/*ABOUT US
+----------------------------------------------------------------------------------------------------*/
+a.about{
+    width:59px;
+    height:15px;
+    position:relative;
+}
+a.about span{
+    position:absolute;
+    width:59px;
+    height:15px;
+    background: url(../images/menu/about.gif) no-repeat 0px -15px;
+}
+a.about:hover span{
+    background: url(../images/menu/about.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+.line {
+	padding: 0px;
+	height: 20px;
+	float: left;
+	background-image: url(../images/menu/menu_line.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 1px;
+}
+
+/*contact
+----------------------------------------------------------------------------------------------------*/
+a.contact{
+    width:71px;
+    height:15px;
+    position:relative;
+}
+a.contact span{
+    position:absolute;
+    width:71px;
+    height:15px;
+    background: url(../images/menu/contact.gif) no-repeat 0px -15px;
+}
+a.contact:hover span{
+    background: url(../images/menu/contact.gif) no-repeat 0px 0px;
+	text-decoration:underline;
+}
+
+.line {
+	padding: 0px;
+	height: 20px;
+	float: left;
+	background-image: url(../images/menu/menu_line.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 1px;
+}

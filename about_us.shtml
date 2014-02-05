@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+
+
+<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="/justin/green_hammer/header.html" -->
+
+<div id="page_title"><img src="images/about_us.gif" alt="Page Title: Contact" width="250" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image"></div>
+<div id="content_no_sidebar">
+
+<div id="about_us_submenu"><a href="about_us.shtml">About Us</a> <a href="crew.shtml">Meet the GH Crew</a> <a href="standards.shtml">Our Standards</a> <a href="resources.shtml">Resources</a></div>
+
+<img src="portfolio/nash/images/nash_web_14.jpg" alt="Green Building" width="453" height="300" class="img_right" />
+  <h1 class="no_margin">Welcome to Green Hammer!</h1>
+  <p>Green Hammer’s mission is to massively decrease energy consumption and carbon emissions in our built environment by designing and building ultra high-performance living and work spaces that inspire urban livability. Our passion is to integrate beauty, and affordability with the world’s highest standards for energy performance, while promoting responsible, non-toxic, and local materials. The results are inspiring buildings with superior health, craft, comfort, efficiency and durability which meet a budget and contribute to walkable, urban neighborhoods.</p>
+  <p><br />
+    We are an integrated <a href="crew.shtml">team</a> of construction managers, architectural designers, certified Building Performance Institute specialists, Certified Passive House Consultants, engineers, LEED AP's, FSC millwrights, skilled craftspeople, and dedicated staff. Our team has the capacity to design, engineer, and build the most energy-efficient buildings in the world.  Additionally, Green Hammer’s sister company, Urban Timber Works, a small urban log salvage, milling, and wood processing company, provides Green Hammer with exceptional local wood products from large slabs to trim material.</p>
+  <div style="clear:both"></div>
+  
+
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!-- End Footer -->
+
+<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+
+</body>
+</html>

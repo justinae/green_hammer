@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="kbcIjQVLq9ZjOYXvCH3K3lST2xfqiOIxC8zNjsxG3Lo=" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="Green Hammer, Design | Build | Energy in Portland, Oregon" />
+<meta name="Keywords" content="green, green building, green builder, portland, oregon, portland oregon, sustainable building, sustainable, natural building, no voc, low voc, environmental, conscious, salvage, salvaged, reclaimed, salvage lumber, salvaged lumber, reclaimed lumber, lumber, wood, home, homes, new home, new homes, remodel, remodeling, green remodel, green remodeling, paint, painting, FSC, Forest Stewardship Council, LEED, construction, general contractor" />
+<meta name="city" content="Portland" />
+<meta name="state" content="Oregon" />
+
+<title>Green Hammer - Design | Build | Energy in Portland, Oregon</title>
+
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="icon" href="/justin/green_hammer/images/favicon.ico" type="image/x-icon">
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12pt;
+}
+-->
+</style>
+</head>
+
+<body>
+<!--[if lte IE 6]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+<!-- Begin Page Wrapper -->
+<div id="wrapper">
+
+	<!--#include virtual="/justin/green_hammer/header.html" -->
+
+<div id="page_title"><img src="images/publications.gif" alt="Page Title: Publications" width="250" height="30" class="no_border" /></div>
+
+<div id="sub_title_no_image"></div>
+<div id="content_no_sidebar">
+
+	<div class="description">
+		<a href="http://solaroregon.org/news/passive-house-popular-in-portland" target="_blank" class="green"><img src="images/urbanize_insulate_cover.jpg" alt="Urbanize and Insulate Cover" width="350" height="540" class="img_left" /></a>
+        <p><span class="style1"><em>Urbanize and Insulate</em> describes the opportunity</span> to avoid environmental collapse while actually increasing livability through a complete paradigm shift of <em>what</em>, <em>where</em>, and <em>how</em> we build.</p>
+        <p>The book begins with a brief history of the development of America’s built environment, as well as an inquiry into the values which have led to our present troubles. It continues by presenting a straightforward account of why and how a proactive overhaul is necessary at the scales of both city planning and building design and construction. This “fossil-fuel exit strategy” is centered on not only avoidance of environmental peril but also improvement of the livability of our built environment, our neighborhoods, streets, and living rooms.</p>
+        <p>The book is based on the master’s thesis work of the author, an architectural designer at Green Hammer, as well as his six years of experience with the Passive House building energy standard.</p>
+        <p class="style1">A pdf sample of the book is available <a href="docs/Urbanize_and_Insulate_SAMPLE_10-11-09.pdf">here</a>.</p>
+        <p>The book is certified by the Forest Stewardship Council for responsible use of forest resources and bears an embossed cover printed by hand letter-press. </p>
+      <p class="style1">Buy now for only $15 shipped within the lower 48 US states.</p>
+        <div id="paypal">
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="HFEC7WTYNWT7L">
+            <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+        </div>
+        <p>Contact the author for bulk purchases or shipments to other locations: <a href="mailto:dylan@greenhammer.com">dylan@greenhammer.com</a></p>
+	</div>
+	 
+    <div style="clear:both"></div>
+	 
+</div>
+<!--End ccontent-->
+
+</div>
+<!--End wrapper-->
+
+<!-- Begin Footer -->
+<!--#include virtual="/justin/green_hammer/footer.html" -->
+<!-- End Footer -->
+
+<!--#include virtual="/justin/green_hammer/scripts/ga.js" -->
+
+</body>
+</html>

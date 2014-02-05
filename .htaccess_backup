@@ -1,0 +1,22 @@
+AddType text/html .shtml
+AddHandler server-parsed .shtml
+Options Indexes FollowSymLinks Includes
+
+RewriteEngine on
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName greenhammerconstruction.com
+
+RewriteCond %{HTTP_HOST} ^greenhammerconstruction.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.greenhammerconstruction.com$
+RewriteRule ^(.*)$ "http\:\/\/www\.greenhammer\.com$1" [R=301,L]
