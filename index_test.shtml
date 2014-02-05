@@ -154,7 +154,6 @@
 <!-- Begin Footer -->
 	<!--#include virtual="footer.html" -->
 <!-- End Footer -->
-	<!--#include virtual="/ga.js" -->
 
 </body>
 </html>
